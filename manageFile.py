@@ -1,8 +1,5 @@
 from urllib.error import HTTPError
-import wget
-import sys
 import json
-import env
 
 def parseoReporte(archivo):
     # Abro el archivo .json y lo cargo
