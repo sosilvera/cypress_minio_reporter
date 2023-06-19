@@ -1,0 +1,1 @@
+# cypress_minio_reporter
