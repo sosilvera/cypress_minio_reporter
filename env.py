@@ -1,5 +1,5 @@
 
-# Datos de usuarios
+# Usuario que envia el mail
 USR = "mail@gmail.com"
 PASS = "mailPass" # o Token
 
@@ -18,12 +18,16 @@ TITLE_REPORTER_CYPRESS = f"Informe de casos"
 # Mail server
 MAILSRV = "smtp.gmail.com"
 
-# URL
+# URL Minio
 MINIO_URL = "minio_url"
+
+# Ruta de carpeta local
 RUTA_PROYECTO = "regresion/"
+
+# Ruta de proyecto en Minio
 RUTA_MINIO = "ruta/de/carpeta/minio"
 
-# ACCESS
+# ACCESS Minio
 ACCESS_KEY = "access_minio"
 ACCESS_SECRET = "secret_minio"
 
